@@ -1,3 +1,6 @@
+//beecrowd 1046
+//Game time
+
 #include<stdio.h>
 int main ()
 {
