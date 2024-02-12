@@ -1,3 +1,6 @@
+//beecrowd 1045
+//types of triangle
+
 #include<stdio.h>
 #include<math.h>
  int main()
